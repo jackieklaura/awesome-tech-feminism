@@ -13,6 +13,8 @@ A curated list of awesome articles, websites and resources about tech feminism (
   - [Austria](#austria)
     - [Wien](#wien)
   - [Germany](#germany)
+    - [Berlin](#berlin)
+    - [München](#munchen)
     - [Stuttgart](#stuttgart)
 
 ## Awesome lists
@@ -62,6 +64,14 @@ Other related awesome lists and resource collections:
 - [Women && Code](https://womenandcode.org/) - initiative to bring women into programming in Austria, which offers different events related to coding in general, and JavaScript, Web Dev, and Python in particular
 
 ## Germany
+
+### Berlin
+
+- [Heart of Code](http://heartofcode.org/) - ein Hackspace für programmierende und technikbegeisterte Frauen (trans und cis), trans\* und nicht-binäre Personen
+
+### München
+
+- [F.U.C.K. München - FNTI\* und Computer Kram](https://wiki.muc.ccc.de/fuck-muc/) - monatliches Event in dem der µc3 Hackspace ausschließlich von FNTI\* Personen genutzt wird
 
 ### Stuttgart
 
