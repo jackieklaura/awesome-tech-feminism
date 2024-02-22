@@ -6,9 +6,9 @@ A curated list of awesome articles, websites and resources about tech feminism (
 
 - [Awesome lists](#awesome-lists)
 - [Organisations](#organisations)
-- [Events & Conferences](#events-conferences)
+- [Events & Conferences](#events--conferences)
 - [Non-English resources](#non-english-resources)
-- [City/Region/Country-specific](#city-region-country-specific)
+- [City/Region/Country-specific](#cityregioncountry-specific)
 
 ## Awesome lists
 
