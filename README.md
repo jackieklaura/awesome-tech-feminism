@@ -8,7 +8,12 @@ A curated list of awesome articles, websites and resources about tech feminism (
 - [Organisations](#organisations)
 - [Events & Conferences](#events--conferences)
 - [Non-English resources](#non-english-resources)
+  - [German](#german)
 - [City/Region/Country-specific](#cityregioncountry-specific)
+  - [Austria](#austria)
+    - [Wien](#wien)
+  - [Germany](#germany)
+    - [Stuttgart](#stuttgart)
 
 ## Awesome lists
 
