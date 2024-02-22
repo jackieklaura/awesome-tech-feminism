@@ -20,6 +20,7 @@ A curated list of awesome articles, websites and resources about tech feminism (
 Other related awesome lists and resource collections:
 
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - a curated list of amazingly awesome articles, websites and resources about diversity in technology.
+- [fem vienna](https://femvienna.wordpress.com/) - an overview of feminist organizations in Vienna (not exclusively in tech context, but with a strong focus on it)
 - [Feminist / Women / Gender Diversity in Tech Initiatives in Vienna](https://hackmd.io/@jackie/FeministTechVienna) - a link/resource collection for initiatives in Vienna (Austria).
 
 ## Organisations
