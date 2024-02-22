@@ -59,6 +59,6 @@ Other related awesome lists and resource collections:
 
 ### Stuttgart
 
-- [<Ready to Code/>](https://readytocode.org) - Online-Programmierworkshops und Networking Events für mehr Gendergerechtigkeit in der IT
+- [Ready to Code](https://readytocode.org) - Online-Programmierworkshops und Networking Events für mehr Gendergerechtigkeit in der IT
   - also hosting the [Cocktails & Code meetup](https://www.meetup.com/de-DE/Cocktails-Code/)
 
