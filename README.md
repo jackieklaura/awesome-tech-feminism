@@ -14,7 +14,7 @@ A curated list of awesome articles, websites and resources about tech feminism (
     - [Wien](#wien)
   - [Germany](#germany)
     - [Berlin](#berlin)
-    - [München](#munchen)
+    - [München](#münchen)
     - [Stuttgart](#stuttgart)
 
 ## Awesome lists
