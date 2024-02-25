@@ -7,6 +7,7 @@ A curated list of awesome articles, websites and resources about tech feminism (
 - [Awesome lists](#awesome-lists)
 - [Organisations](#organisations)
 - [Events & Conferences](#events--conferences)
+- [Videos](#videos)
 - [Non-English resources](#non-english-resources)
   - [German](#german)
 - [City/Region/Country-specific](#cityregioncountry-specific)
@@ -31,11 +32,19 @@ Other related awesome lists and resource collections:
 - [ngGirls](https://www.ng-girls.org/) - a global network of workshops and events to introduce women to the world of technology based on building a web application with Angular.
 - [PyLadies](https://pyladies.com/) - an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 - [R-Ladies](https://rladies.org) - a worldwide organisation whose mission is to promote gender diversity in the R community.
+- [Women in Tech e.V.]([https://www.womenintechev.de/]) - an association in the DACH-region (Germany, Austria, Switzerland) with the aim that technology is designed by all genders
 
 ## Events & Conferences
 
 - [PyLadiesCon](http://conference.pyladies.com/) - a global online conference covering all topics related to Python programming, organised by the global network of PyLadies communities
 - [Women Techmakers Vienna](https://www.womentechmakers.at/) - first a local conf in Vienna (Austria), then an online conference (last edition so far 2020)
+
+## Videos
+- [Feminism - For more Equity in AI | Eva Gengler | TEDxCBS Cologne](https://www.youtube.com/watch?v=CxcCwvut50A)
+- [Why we need to design feminist AI | Josie Young | TEDxLondonWomen](https://www.youtube.com/watch?v=E-O3LaSEcVw)
+- [The Feminist City | Dr. Ellie Cosgrave | TEDxUCLWomen](https://www.youtube.com/watch?v=rNkB7afesco)
+- [Can architecture and planning ensure safety for women? | Vania Ceccato | TEDxKTHWomen](https://www.youtube.com/watch?v=L8oEZ16vFzk)
+- [The surprising neuroscience of gender inequality | Janet Crawford | TEDxSanDiego](https://www.youtube.com/watch?v=eCknUJJc3qU)
 
 ## Non-English resources
 
