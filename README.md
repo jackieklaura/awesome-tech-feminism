@@ -32,7 +32,7 @@ Other related awesome lists and resource collections:
 - [ngGirls](https://www.ng-girls.org/) - a global network of workshops and events to introduce women to the world of technology based on building a web application with Angular.
 - [PyLadies](https://pyladies.com/) - an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 - [R-Ladies](https://rladies.org) - a worldwide organisation whose mission is to promote gender diversity in the R community.
-- [Women in Tech e.V.]([https://www.womenintechev.de/]) - an association in the DACH-region (Germany, Austria, Switzerland) with the aim that technology is designed by all genders
+- [Women in Tech e.V.](https://www.womenintechev.de/) - an association in the DACH-region (Germany, Austria, Switzerland) with the aim that technology is designed by all genders
 
 ## Events & Conferences
 
