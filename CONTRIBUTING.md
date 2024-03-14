@@ -21,8 +21,10 @@ Generally a good procedure is to fork the repository, and then create a
 new branch off main. There you can create as many commits as you need,
 and when you are done, create the pull request to our repo's main branch.
 
-> **Note**<br>
-Not every single addition to the list requires a separate commit, but if you want to add and change a lot, it would make sense to do so over several commits.
+> :bulb: **Hint**:<br>
+> Not every single addition to the list requires a separate commit,
+> but if you want to add and change a lot, it would make sense to do
+> so over several commits.
 
 In case you are unsure how to do a PR, just contact the maintainers before,
 and we are happy to guide you through the process.
