@@ -32,7 +32,7 @@ and we are happy to guide you through the process.
 ## Maintainers and Contact
 
 This repo is currently maintained by:
-- [Ind13Go](https://github.com/Ind13Go)
+- [InkenMareiKolthoff](https://github.com/InkenMareiKolthoff)
 - [jackieklaura](https://github.com/jackieklaura/)
 
 You can contact us through any of the channels listed in our profile.
