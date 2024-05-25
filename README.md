@@ -77,6 +77,9 @@ Other related awesome lists and resource collections:
 - [Referat für Gleichbehandlung und Frauenförderung an der ÖH der TU Wien](https://htu.at/gleich) - womens' department of the students union at the TU Wien
 - [#TheNewITGirls](https://thenewitgirls.com/) - a community for women in tech with monthly meetups
 - [Women && Code](https://womenandcode.org/) - initiative to bring women into programming in Austria, which offers different events related to coding in general, and JavaScript, Web Dev, and Python in particular
+- [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a Vienna-based community of female students,
+  young academics, allies and advocates, dedicated to bringing talented women together to celebrate and foster their passion
+  and drive for privacy and security.
 
 ## Germany
 
