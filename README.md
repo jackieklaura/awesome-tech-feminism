@@ -54,6 +54,8 @@ Other related awesome lists and resource collections:
 - [The Feminist City | Dr. Ellie Cosgrave | TEDxUCLWomen](https://www.youtube.com/watch?v=rNkB7afesco)
 - [Can architecture and planning ensure safety for women? | Vania Ceccato | TEDxKTHWomen](https://www.youtube.com/watch?v=L8oEZ16vFzk)
 - [The surprising neuroscience of gender inequality | Janet Crawford | TEDxSanDiego](https://www.youtube.com/watch?v=eCknUJJc3qU)
+- [Women In Technology Spotlight](https://www.youtube.com/@womenintechnologyspotlight324) - a YouTube channel with interviews and
+  expert talks featuring women working in IT across the spectrum of different roles.
 
 ## Non-English resources
 
