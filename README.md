@@ -60,6 +60,7 @@ Other related awesome lists and resource collections:
 
 - [F.U.C.K.](https://fuck-the.systems/) - Feminismus und Computer Kram, FLINTA\* online hackspace (bilingual mode for English-speakers)
 - [Haecksen](https://www.haecksen.org) - eine Gruppe für Techniker\*innen, Hacker\*innen, Maker\*innen, Wissenschaftler\*innen, Künstler\*innen, Aktivist\*innen im Umfeld der deutschen Hacker\*innenszene und solche, die es werden wollen
+- [techshelikes](https://techshelikes.co) - eine deutschsprachige Plattform mit dem Ziel Technologie und Technik für Mädchen und Frauen zugänglicher und interessanter zu machen und die Vielfalt an Jobs mit “purpose & impact” in dieser Branche aufzuzeigen.
 
 ## City/Region/Country-specific
 
