@@ -15,6 +15,7 @@ If you want to add something to this list, take a look at our [Contribution HowT
 - [City/Region/Country-specific](#cityregioncountry-specific)
   - [Austria](#austria)
     - [Wien](#wien)
+  - [DACH](#dach)
   - [Germany](#germany)
     - [Berlin](#berlin)
     - [München](#münchen)
@@ -84,6 +85,12 @@ Other related awesome lists and resource collections:
 - [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a Vienna-based community of female students,
   young academics, allies and advocates, dedicated to bringing talented women together to celebrate and foster their passion
   and drive for privacy and security.
+
+## DACH
+
+This refers to the region spanning the three German-speaking countries Germany (D), Austria (A), and Switzerland (CH).
+
+- [Black Women in Tech DACH](https://blackwomenintech-dach.com/) - an organization connection Black Women in the Technology industry and paving the way for those looking to break into Tech across DACH.
 
 ## Germany
 
