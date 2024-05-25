@@ -89,3 +89,10 @@ Other related awesome lists and resource collections:
 - [Ready to Code](https://readytocode.org) - Online-Programmierworkshops und Networking Events für mehr Gendergerechtigkeit in der IT
   - also hosting the [Cocktails & Code meetup](https://www.meetup.com/de-DE/Cocktails-Code/)
 
+## Netherlands
+
+### Rotterdam
+
+- [varia](https://varia.zone) - a space in Rotterdam for developing collective approaches to everyday technology,
+  with [feminist hack meetings](https://varia.zone/en/category/feminist-hack-meetings.html) and explorations
+  and reflections on [feminist IT infrastructures](https://vvvvvvaria.org/en/peripheral-centers-feminist-servers.html)
