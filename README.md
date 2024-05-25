@@ -38,6 +38,7 @@ Other related awesome lists and resource collections:
 - [R-Ladies](https://rladies.org) - a worldwide organisation whose mission is to promote gender diversity in the R community.
 - [systerserver](https://systerserver.net/) - offers services to its network of feminist, queer and antipatriarchal folks, run by feminists, using FOSS.
 - [Women in Tech e.V.](https://www.womenintechev.de/) - an association in the DACH-region (Germany, Austria, Switzerland) with the aim that technology is designed by all genders
+- [Women4Cyber](https://women4cyber.eu/) - a non-profit European private foundation with the objective to promote, encourage and support the participation of women in the field of cybersecurity.
 - [WiCyS - Women in CyberSecurity](https://www.wicys.org) - academic and industry network for the advancement of women in cybersecurity.
 
 ## Events & Conferences
