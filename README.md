@@ -19,6 +19,8 @@ If you want to add something to this list, take a look at our [Contribution HowT
     - [Berlin](#berlin)
     - [München](#münchen)
     - [Stuttgart](#stuttgart)
+  - [Netherlands](#netherlands)
+    - [Rotterdam](#rotterdam)
 
 ## Awesome lists
 
