@@ -28,8 +28,8 @@ If you want to add something to this list, take a look at our [Contribution HowT
 Other related awesome lists and resource collections:
 
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - a curated list of amazingly awesome articles, websites and resources about diversity in technology.
-- [fem vienna](https://femvienna.wordpress.com/) - an overview of feminist organizations in Vienna (not exclusively in tech context, but with a strong focus on it)
 - [Feminist / Women / Gender Diversity in Tech Initiatives in Vienna](https://hackmd.io/@jackie/FeministTechVienna) - a link/resource collection for initiatives in Vienna (Austria).
+- [fem vienna](https://femvienna.wordpress.com/) - an overview of feminist organizations in Vienna (not exclusively in tech context, but with a strong focus on it)
 
 ## Organisations
 
@@ -38,9 +38,9 @@ Other related awesome lists and resource collections:
 - [PyLadies](https://pyladies.com/) - an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 - [R-Ladies](https://rladies.org) - a worldwide organisation whose mission is to promote gender diversity in the R community.
 - [systerserver](https://systerserver.net/) - offers services to its network of feminist, queer and antipatriarchal folks, run by feminists, using FOSS.
-- [Women in Tech e.V.](https://www.womenintechev.de/) - an association in the DACH-region (Germany, Austria, Switzerland) with the aim that technology is designed by all genders
-- [Women4Cyber](https://women4cyber.eu/) - a non-profit European private foundation with the objective to promote, encourage and support the participation of women in the field of cybersecurity.
 - [WiCyS - Women in CyberSecurity](https://www.wicys.org) - academic and industry network for the advancement of women in cybersecurity.
+- [Women4Cyber](https://women4cyber.eu/) - a non-profit European private foundation with the objective to promote, encourage and support the participation of women in the field of cybersecurity.
+- [Women in Tech e.V.](https://www.womenintechev.de/) - an association in the DACH-region (Germany, Austria, Switzerland) with the aim that technology is designed by all genders
 
 ## Events & Conferences
 
@@ -49,11 +49,11 @@ Other related awesome lists and resource collections:
 - [Women Techmakers Vienna](https://www.womentechmakers.at/) - first a local conf in Vienna (Austria), then an online conference (last edition so far 2020)
 
 ## Videos
-- [Feminism - For more Equity in AI | Eva Gengler | TEDxCBS Cologne](https://www.youtube.com/watch?v=CxcCwvut50A)
-- [Why we need to design feminist AI | Josie Young | TEDxLondonWomen](https://www.youtube.com/watch?v=E-O3LaSEcVw)
-- [The Feminist City | Dr. Ellie Cosgrave | TEDxUCLWomen](https://www.youtube.com/watch?v=rNkB7afesco)
 - [Can architecture and planning ensure safety for women? | Vania Ceccato | TEDxKTHWomen](https://www.youtube.com/watch?v=L8oEZ16vFzk)
+- [Feminism - For more Equity in AI | Eva Gengler | TEDxCBS Cologne](https://www.youtube.com/watch?v=CxcCwvut50A)
+- [The Feminist City | Dr. Ellie Cosgrave | TEDxUCLWomen](https://www.youtube.com/watch?v=rNkB7afesco)
 - [The surprising neuroscience of gender inequality | Janet Crawford | TEDxSanDiego](https://www.youtube.com/watch?v=eCknUJJc3qU)
+- [Why we need to design feminist AI | Josie Young | TEDxLondonWomen](https://www.youtube.com/watch?v=E-O3LaSEcVw)
 - [Women In Technology Spotlight](https://www.youtube.com/@womenintechnologyspotlight324) - a YouTube channel with interviews and
   expert talks featuring women working in IT across the spectrum of different roles.
 
@@ -76,17 +76,17 @@ Other related awesome lists and resource collections:
 
 ### Wien
 
+- [#TheNewITGirls](https://thenewitgirls.com/) - a community for women in tech with monthly meetups
 - [diebin.at](https://diebin.at) - queer\*feminist ICT collective providing ICT infrastructure and workshops
 - [Feminist Linux Meetup für Frauen*, Non-Binary*, Trans* und Inter* Personen](https://feminist-linux.diebin.at/) - … monatlicher Vernetzungs-, Lern-, Probier- & Experimentierraum
 - [Mz\* Baltazar’s Lab](http://www.mzbaltazarslaboratory.org/) - feminist collective and hackerspace with a focus on DIY projects on the intersection of arts, technology & feminism
 - [PyLadies Vienna](https://pyladies.at/) - meetups and beginner courses for the Python programming language (part of the international PyLadies network).
 - [Referat für Gleichbehandlung und Frauenförderung an der ÖH der TU Wien](https://htu.at/gleich) - womens' department of the students union at the TU Wien
 - [SheDigital](https://www.shedigital.at/) - Vernetzung von mehr als 60 IT-Frauennetzwerke, initiiert von der DigitalCity.Wien
-- [#TheNewITGirls](https://thenewitgirls.com/) - a community for women in tech with monthly meetups
-- [Women && Code](https://womenandcode.org/) - initiative to bring women into programming in Austria, which offers different events related to coding in general, and JavaScript, Web Dev, and Python in particular
 - [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a Vienna-based community of female students,
   young academics, allies and advocates, dedicated to bringing talented women together to celebrate and foster their passion
   and drive for privacy and security.
+- [Women && Code](https://womenandcode.org/) - initiative to bring women into programming in Austria, which offers different events related to coding in general, and JavaScript, Web Dev, and Python in particular
 
 ## DACH
 
