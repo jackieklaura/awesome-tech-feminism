@@ -41,6 +41,7 @@ Other related awesome lists and resource collections:
 
 ## Events & Conferences
 
+- [/ETC - Eclectic Tech Carnival](https://eclectictechcarnival.org/) - a gathering of feminists who critically explore and develop everyday skills and information technologies in the context of free and open source software and hardware
 - [PyLadiesCon](http://conference.pyladies.com/) - a global online conference covering all topics related to Python programming, organised by the global network of PyLadies communities
 - [Women Techmakers Vienna](https://www.womentechmakers.at/) - first a local conf in Vienna (Austria), then an online conference (last edition so far 2020)
 
