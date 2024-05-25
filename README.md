@@ -77,6 +77,7 @@ Other related awesome lists and resource collections:
 - [Mz\* Baltazar’s Lab](http://www.mzbaltazarslaboratory.org/) - feminist collective and hackerspace with a focus on DIY projects on the intersection of arts, technology & feminism
 - [PyLadies Vienna](https://pyladies.at/) - meetups and beginner courses for the Python programming language (part of the international PyLadies network).
 - [Referat für Gleichbehandlung und Frauenförderung an der ÖH der TU Wien](https://htu.at/gleich) - womens' department of the students union at the TU Wien
+- [SheDigital](https://www.shedigital.at/) - Vernetzung von mehr als 60 IT-Frauennetzwerke, initiiert von der DigitalCity.Wien
 - [#TheNewITGirls](https://thenewitgirls.com/) - a community for women in tech with monthly meetups
 - [Women && Code](https://womenandcode.org/) - initiative to bring women into programming in Austria, which offers different events related to coding in general, and JavaScript, Web Dev, and Python in particular
 - [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a Vienna-based community of female students,
