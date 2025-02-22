@@ -77,19 +77,18 @@ Other related awesome lists and resource collections:
 ### Wien
 
 - [#TheNewITGirls](https://thenewitgirls.com/) - a community for women in tech with monthly meetups
-- [AWS Women's User Group](https://www.meetup.com/aws-womens-user-group-vienna/) - empower women in cloud computing by organizing meetups (female-only speakers, mixed partizipants), 
+- [AWS Women's User Group](https://www.meetup.com/aws-womens-user-group-vienna/) - empower women in cloud computing by organizing meetups (female-only speakers, mixed participants),
 - [diebin.at](https://diebin.at) - queer\*feminist ICT collective providing ICT infrastructure and workshops
-- [G:URL*s Coding Club](https://www.instagram.com/gurlscodingclubvienna) - Female-only study groups and workshop
-s- [Feminist Linux Meetup für Frauen*, Non-Binary*, Trans* und Inter* Personen](https://feminist-linux.diebin.at/) - … monatlicher Vernetzungs-, Lern-, Probier- & Experimentierraum
+- [G:URL*s Coding Club](https://www.instagram.com/gurlscodingclubvienna) - Female-only study groups and workshops
+- [Feminist Linux Meetup für Frauen*, Non-Binary*, Trans* und Inter* Personen](https://feminist-linux.diebin.at/) - … monatlicher Vernetzungs-, Lern-, Probier- & Experimentierraum
 - [Mz\* Baltazar’s Lab](http://www.mzbaltazarslaboratory.org/) - feminist collective and hackerspace with a focus on DIY projects on the intersection of arts, technology & feminism
 - [PyLadies Vienna](https://pyladies.at/) - meetups and beginner courses for the Python programming language (part of the international PyLadies network).
 - [QueerJS](https://queerjs.com/vienna-jan-2025/) - QueerJS is a meetup series where everyone is encouraged to attend and support the speakers and the idea.
 - [Referat für Gleichbehandlung und Frauenförderung an der ÖH der TU Wien](https://htu.at/gleich) - womens' department of the students union at the TU Wien
-- [SHEcurity](https://shecurity.at/) - 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 of women and FINTA* who are passionate about cybersecurity  including interest groups for CSIO, risk management and a bookclub.
+- [SHEcurity](https://shecurity.at/) - Community of women and FINTA* who are passionate about cybersecurity  including interest groups for CSIO, risk management and a bookclub.
 - [SheDigital](https://www.shedigital.at/) - Vernetzung von mehr als 60 IT-Frauennetzwerke, initiiert von der DigitalCity.Wien
 - [Women And Code](https://womenandcode.org/) - non-profit initiative to connect female* developers in Austria, which offers different events such as software developer meetups in Vienna in particular.
-- [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a 
-Vienna-based community of female students,
+- [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a Vienna-based community of female students,
   young academics, allies and advocates, dedicated to bringing talented women together to celebrate and foster their passion
   and drive for privacy and security.
 
