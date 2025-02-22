@@ -85,7 +85,7 @@ Other related awesome lists and resource collections:
 - [PyLadies Vienna](https://pyladies.at/) - meetups and beginner courses for the Python programming language (part of the international PyLadies network).
 - [QueerJS](https://queerjs.com/vienna-jan-2025/) - QueerJS is a meetup series where everyone is encouraged to attend and support the speakers and the idea.
 - [Referat für Gleichbehandlung und Frauenförderung an der ÖH der TU Wien](https://htu.at/gleich) - womens' department of the students union at the TU Wien
-- [SHEcurity](https://shecurity.at/) - Community of women and FINTA* who are passionate about cybersecurity  including interest groups for CSIO, risk management and a bookclub.
+- [SHEcurity](http://shecurity.at/) - Community of women and FINTA* who are passionate about cybersecurity  including interest groups for CSIO, risk management and a bookclub.
 - [SheDigital](https://www.shedigital.at/) - Vernetzung von mehr als 60 IT-Frauennetzwerke, initiiert von der DigitalCity.Wien
 - [Women And Code](https://womenandcode.org/) - non-profit initiative to connect female* developers in Austria, which offers different events such as software developer meetups in Vienna in particular.
 - [Women in Privacy & Security meetup](https://www.meetup.com/SecWomenVienna/) - a Vienna-based community of female students,
