@@ -79,7 +79,7 @@ Other related awesome lists and resource collections:
 - [#TheNewITGirls](https://thenewitgirls.com/) - a community for women in tech with monthly meetups
 - [AWS Women's User Group](https://www.meetup.com/aws-womens-user-group-vienna/) - empower women in cloud computing by organizing meetups (female-only speakers, mixed participants),
 - [diebin.at](https://diebin.at) - queer\*feminist ICT collective providing ICT infrastructure and workshops
-- [G:URL*s Coding Club](https://www.instagram.com/gurlscodingclubvienna) - Female-only study groups and workshops
+- [G:URL*s Coding Club](https://www.instagram.com/gurlscodingclubvienna) - Workshops, tech talks and social events for FLINTA individuals
 - [Feminist Linux Meetup für Frauen*, Non-Binary*, Trans* und Inter* Personen](https://feminist-linux.diebin.at/) - … monatlicher Vernetzungs-, Lern-, Probier- & Experimentierraum
 - [Mz\* Baltazar’s Lab](http://www.mzbaltazarslaboratory.org/) - feminist collective and hackerspace with a focus on DIY projects on the intersection of arts, technology & feminism
 - [PyLadies Vienna](https://pyladies.at/) - meetups and beginner courses for the Python programming language (part of the international PyLadies network).
